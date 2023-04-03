@@ -1,0 +1,38 @@
+﻿{
+	margin: 0;
+	padding: 0;
+}
+.center {
+        padding: 70px 0;
+        text-align: center;
+    }
+img {
+	width: 70%;
+	height: 70%;
+	background:no-repeat center/120% #ffffff;
+	}
+hr {
+	width: 100%;
+	border: 0;
+	height: 2px;
+	top: calc(25% - 2px);
+	background: red;
+}
+body
+{
+	margin:5%;
+	background: linear-gradient(rgba(0, 0, 0, 0.10), rgba(0, 0, 0, 0.10)),#00ede5;
+	/*background: no-repeat center/100% url("images/bg.png")*/
+}
+footer {
+   position: fixed;
+   bottom: 0;
+   width: 9%;
+   height: 35px;
+}
+
+#wrapper{
+	width: 1080px;
+	margin:0 auto;
+
+}
